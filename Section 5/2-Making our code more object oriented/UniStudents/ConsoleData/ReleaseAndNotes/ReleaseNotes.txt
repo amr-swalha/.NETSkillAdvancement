@@ -1,0 +1,5 @@
+﻿V 1.0
+1-Prints the data of students
+2-Shows what student have subjects
+
+V 1.1

@@ -1,0 +1,4 @@
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\DAL\bin\Debug\DAL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\DAL\bin\Debug\DAL.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\DAL\obj\Debug\DAL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,4 @@
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\NuGet.Packager2\bin\Debug\NuGet.Packager2.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\NuGet.Packager2\bin\Debug\NuGet.Packager2.pdb
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\NuGet.Packager2\obj\Debug\NuGet.Packager2.dll
+C:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\NuGet.Packager2\obj\Debug\NuGet.Packager2.pdb

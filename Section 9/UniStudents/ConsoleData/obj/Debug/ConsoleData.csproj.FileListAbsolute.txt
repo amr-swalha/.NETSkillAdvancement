@@ -1,0 +1,10 @@
+c:\users\afswa\documents\visual studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\ConsoleData.exe.config
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\ConsoleData.exe
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\ConsoleData.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\BL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\DAL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\BL.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\bin\Debug\DAL.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\obj\Debug\ConsoleData.csprojResolveAssemblyReference.cache
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\obj\Debug\ConsoleData.exe
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\ConsoleData\obj\Debug\ConsoleData.pdb

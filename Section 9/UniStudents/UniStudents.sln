@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleData", "ConsoleData\ConsoleData.csproj", "{9391DDAF-29AC-4320-97C1-65A9619811C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{09CBC5AA-070A-46E3-BBCA-E1BCF5CBED98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{CC5F4C59-5420-463E-B8CF-2A9153484AEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniStudents.Tests", "UniStudents.Tests\UniStudents.Tests.csproj", "{F17C2E70-386E-40B0-B001-C15A9E208153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGen", "CodeGen\CodeGen.csproj", "{AC62B01D-DAF0-44C4-916D-7A5F7B1FCCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGet.Packager2", "NuGet.Packager2\NuGet.Packager2.csproj", "{0451BAEF-DF2E-4B98-8644-94EE9415E389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetServer", "NugetServer\NugetServer.csproj", "{7849F796-7ECD-4E6B-879A-EE484E3B45F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9391DDAF-29AC-4320-97C1-65A9619811C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9391DDAF-29AC-4320-97C1-65A9619811C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9391DDAF-29AC-4320-97C1-65A9619811C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9391DDAF-29AC-4320-97C1-65A9619811C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CBC5AA-070A-46E3-BBCA-E1BCF5CBED98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CBC5AA-070A-46E3-BBCA-E1BCF5CBED98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CBC5AA-070A-46E3-BBCA-E1BCF5CBED98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CBC5AA-070A-46E3-BBCA-E1BCF5CBED98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5F4C59-5420-463E-B8CF-2A9153484AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5F4C59-5420-463E-B8CF-2A9153484AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5F4C59-5420-463E-B8CF-2A9153484AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5F4C59-5420-463E-B8CF-2A9153484AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17C2E70-386E-40B0-B001-C15A9E208153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17C2E70-386E-40B0-B001-C15A9E208153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17C2E70-386E-40B0-B001-C15A9E208153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17C2E70-386E-40B0-B001-C15A9E208153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC62B01D-DAF0-44C4-916D-7A5F7B1FCCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC62B01D-DAF0-44C4-916D-7A5F7B1FCCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC62B01D-DAF0-44C4-916D-7A5F7B1FCCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC62B01D-DAF0-44C4-916D-7A5F7B1FCCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0451BAEF-DF2E-4B98-8644-94EE9415E389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7849F796-7ECD-4E6B-879A-EE484E3B45F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7849F796-7ECD-4E6B-879A-EE484E3B45F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7849F796-7ECD-4E6B-879A-EE484E3B45F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7849F796-7ECD-4E6B-879A-EE484E3B45F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://amrswalhacode.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BL\\BL.csproj
+		SccProjectName1 = BL
+		SccLocalPath1 = BL
+		SccProjectUniqueName2 = CodeGen\\CodeGen.csproj
+		SccProjectName2 = CodeGen
+		SccLocalPath2 = CodeGen
+		SccProjectUniqueName3 = ConsoleData\\ConsoleData.csproj
+		SccProjectName3 = ConsoleData
+		SccLocalPath3 = ConsoleData
+		SccProjectUniqueName4 = DAL\\DAL.csproj
+		SccProjectName4 = DAL
+		SccLocalPath4 = DAL
+		SccProjectUniqueName5 = UniStudents.Tests\\UniStudents.Tests.csproj
+		SccProjectName5 = UniStudents.Tests
+		SccLocalPath5 = UniStudents.Tests
+		SccProjectUniqueName6 = NuGet.Packager2\\NuGet.Packager2.csproj
+		SccProjectName6 = NuGet.Packager2
+		SccLocalPath6 = NuGet.Packager2
+		SccProjectUniqueName7 = NugetServer\\NugetServer.csproj
+		SccProjectName7 = NugetServer
+		SccLocalPath7 = NugetServer
+	EndGlobalSection
+EndGlobal

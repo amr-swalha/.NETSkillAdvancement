@@ -1,0 +1,9 @@
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\bin\Debug\UniStudents.Tests.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\bin\Debug\UniStudents.Tests.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\bin\Debug\nunit.framework.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\bin\Debug\nunit.framework.xml
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\obj\Debug\UniStudents.Tests.csprojResolveAssemblyReference.cache
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\obj\Debug\UniStudents.Tests.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\obj\Debug\UniStudents.Tests.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\bin\Debug\DAL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\UniStudents.Tests\bin\Debug\DAL.pdb

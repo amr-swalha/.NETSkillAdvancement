@@ -1,0 +1,7 @@
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\bin\Debug\BL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\bin\Debug\BL.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\bin\Debug\DAL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\bin\Debug\DAL.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\obj\Debug\BL.dll
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\obj\Debug\BL.pdb
+c:\Users\afswa\Documents\Visual Studio 2015\Projects\UniStudents\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
